@@ -3,7 +3,7 @@ hexo-theme-AirBash
 ================
 
 MiHo is a single and responsive design theme for [Hexo](//hexo.io).
-MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[MinHow's Blog](https://blog.minhow.com/).
+MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[ZSP's Blog](https://airbash.cn/).
 中文文档请[查看]( https://airbash.cn/2017/08/01/Hexo/install/ ).
 
 ## Summary
