@@ -14,7 +14,14 @@ MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[Z
 * [Contributing](#contributing)
 * [License](#license)
 
+## 基础信息
+
+- 修改备案号：
+
+  airbash\layout\_partial\footer.ejs中修改备案号
+
 ## General
+
 [![Version](https://img.shields.io/badge/version-1.0.0-green.svg?style=flat-square)](#)
 [![Author](https://img.shields.io/badge/author-MinHow-blue.svg?style=flat-square)](https://minhow.com)
 
