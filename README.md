@@ -36,7 +36,7 @@ MiHo requires Hexo 3.0 and above, Compatible with mobile browsing; Theme DEMO:[Z
 
 ### Installation Theme
 ``` bash
-$ git clone git@github.com:yanxuedesaonian/hexo-theme-airbash.git themes/miho
+$ git clone git@github.com:AirBashX/hexo-theme-airbash.gitt themes/airbash
 ```
 
 ### Update
